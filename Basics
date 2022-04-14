@@ -16,5 +16,16 @@ Traditional Methods:
 Machine Learning (ML):
 - Machine predicts outcomes from data without being explicitly programmed to do so.
 - Predictions with unprecedented accuracy.
-
+BI Techniques:
+- Collect observations
+- Quantify (represent observations as numbers) collected info.
+- Create measures (accumulation of observation to show some info)
+- Metrics (values derived from measures created, gauges business progress, performance, etc.)
+                   Metric = Measure + Business Meaning
+- Key Performance Indicators (KPI)
+                   KPIs = Metrics + Business Objectives  
+                   Key --> Related to main business goals
+                   Performance --> How successfully task is performed in specific timeframe
+                   Indicators --> Most important values or metrics indicating something related to business performance
+- BI Reports and Dashboards
 
