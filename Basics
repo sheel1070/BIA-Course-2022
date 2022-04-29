@@ -9,13 +9,6 @@ Business Intelligence (BI):
 - Make decisions
 - Extract insights and ideas
 - Answers to "How?" and "Why?"
-Traditional Methods:
-- Methods derived from stats and adapted for business
-- Forecast future performance with high accuracy
-- Cluster analysis, regression analysis, etc.
-Machine Learning (ML):
-- Machine predicts outcomes from data without being explicitly programmed to do so.
-- Predictions with unprecedented accuracy.
 BI Techniques:
 - Collect observations
 - Quantify (represent observations as numbers) collected info.
@@ -28,4 +21,39 @@ BI Techniques:
                    Performance --> How successfully task is performed in specific timeframe
                    Indicators --> Most important values or metrics indicating something related to business performance
 - BI Reports and Dashboards
+BI Uses
+- Price optimisation
+- Enhancing inventory management
+Traditional Methods:
+- Methods derived from stats and adapted for business
+- Forecast future performance with high accuracy
+- Cluster analysis, regression analysis, etc.
+Traditional Data Techniques
+- Regression i.e. a model for quantifying causal relationships among different variables included in analysis.
+                   2 types: Linear and non-linear (Logistic) Regression
+     NOTE: for linear regression, y = bx where b = coefficient, x = value on x-axis i.e. independent variable and y = value on y-axis i.e. dependent variable
+           In case of many variables, y = a + b1x1 + b2x2 + b3x3 +____________ where x = predictor variable
+                                                                                         regressor
+                                                                                         independent variable
+                                                                                         explanatory variable
+- Cluster Analysis
+- Factor Analysis i.e. reduce dimensionality of problem by generalizing a large number of variables (x1,x2,x3,----,x100) into a manageable amount of variables (z1,z2,z3,-----,z10) which can then be used in regression formula.
+- Time Series i.e. observing stock prices, volume, etc. with time (t) always on the x-axis as it is independent variable.
+
+# Cluster vs Factor Analysis
+- Cluster groups observations into cluster
+- Factor analysis groups explanatory variables to generalize them
+Machine Learning (ML):
+- Machine predicts outcomes from data without being explicitly programmed to do so.
+- Predictions with unprecedented accuracy.
+- Create algo based on which computer uses to find a model that fits data best to make accurate predictions.
+- Uses trial and error where every trial is atleast as good as the last one.
+                  Data --> Model --> Objective function --> Optimization Algorithm
+- 3 Types i.e. Supervised, Unsupervised and Reinforcement Learning
+
+# Programming languages vs Software
+- Programming languages can be used to devise reusable programs to execute an action. Example: Python, R
+- Software is a large collection of programs.
+
+
 
