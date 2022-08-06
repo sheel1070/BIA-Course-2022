@@ -9,17 +9,34 @@ Business Intelligence (BI):
 - Make decisions
 - Extract insights and ideas
 - Answers to "How?" and "Why?"
-BI Techniques:
+BI Basic Working:
 - Collect observations
+        |
+        |
+        V
 - Quantify (represent observations as numbers) collected info.
-- Create measures (accumulation of observation to show some info)
+        |
+        |
+        V
+- Create Measures (accumulation of observation to show some info)
+        |
+        |
+        V
 - Metrics (values derived from measures created, gauges business progress, performance, etc.)
                    Metric = Measure + Business Meaning
+                   
+        |
+        |
+        V
 - Key Performance Indicators (KPI)
                    KPIs = Metrics + Business Objectives  
                    Key --> Related to main business goals
                    Performance --> How successfully task is performed in specific timeframe
                    Indicators --> Most important values or metrics indicating something related to business performance
+                   
+        |
+        |
+        V
 - BI Reports and Dashboards
 BI Uses
 - Price optimisation
