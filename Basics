@@ -72,5 +72,25 @@ Machine Learning (ML):
 - Programming languages can be used to devise reusable programs to execute an action. Example: Python, R
 - Software is a large collection of programs.
 
+Population vs Sample:
+- Full Population is hard to observe and contact.
+- Sample is comparitively easier to observe and contact.
 
+Sample Compulsory Characterstics:
+- Randomness i.e. a sample is random only and only if each member is chosen from population strictly by chance.
+- Representativeness i.e. a representative sample is subset of population only and only if it accurately represents members of entire population.
 
+Types of Data
+- Categorical (groups) i.e. car brands, yes/no questions, genders, etc.
+- Numerical and is divided into Discrete and Continuous.
+  - Discrete i.e. integer values such as number of children, number of people, grades, etc.
+  - Continuous i.e. decimal values such as weight, area, distance
+
+Measurement Levels
+- Qualitative
+  - Nominal i.e. cannot be ordered such as clothing brands, 4 seasons, etc.
+  - Ordinal i.e. can be ordered such as months of a year, ratings, etc.
+  
+- Quantitative (Represented by numbers)
+  - Intervals (no true 0)
+  - Ratio (have a true 0)
