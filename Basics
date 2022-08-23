@@ -95,4 +95,17 @@ Measurement Levels
   - Intervals (no true 0)
   - Ratio (have a true 0)
   
-Graphs
+  Graphs and Tables
+  - Categorical Variable Representation
+    - Frequency Distribution Table
+    - Bar Charts
+    - Pie Charts
+    - Pareto Diagrams i.e. a special type of bar chart where categories are shown in descending order of frequency.
+    
+# Relative Frequency and Cumulative Frequency
+  1. For relative frequency, calculate sum of frequency column and every frequency value by the total frequency.
+  2. Cumulative Frequency is sum of relative frequencies.
+  
+# Pareto Principle (80-20 rule)
+  "80% of the effect come from 20% of the causes."
+    
