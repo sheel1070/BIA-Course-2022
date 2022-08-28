@@ -104,8 +104,16 @@ Measurement Levels
     
 # Relative Frequency and Cumulative Frequency
   1. For relative frequency, calculate sum of frequency column and every frequency value by the total frequency.
+                               RF = Frequency / Total Frequency
   2. Cumulative Frequency is sum of relative frequencies.
   
 # Pareto Principle (80-20 rule)
   "80% of the effect come from 20% of the causes."
-    
+  
+  - Numerical Variable Representation
+    - Frequency Distribution Table using INTERVALS
+        Interval Width = (largest no. - smallest no.)/number of desired intervals
+        Conditions for number to be included in interval:
+        # Number is greater than lower bound.
+                         OR
+        # Number is lower or equal to upper bound.
